@@ -1,0 +1,16 @@
+{
+	"identifier": "com.pa.balance.legion",
+	"display_name": "Legion Balance",
+	"description": "Actual and modern balance for Legion faction. Fast updates, Deep gameplay, Community driven!",
+	"author": "Community",
+	"signature": "not yet implemented",
+	"context": "server",
+	"priority": 70,
+	"dependencies": [
+		"com.pa.legion-expansion-server"
+	],
+	"titansOnly": true,
+	"date": "2023-04-07",
+	"build": "116400",
+	"version": "1.0.0"
+}
