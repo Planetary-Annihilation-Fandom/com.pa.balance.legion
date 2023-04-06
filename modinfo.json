@@ -3,6 +3,11 @@
 	"display_name": "Legion Balance",
 	"description": "Actual and modern balance for Legion faction. Fast updates, Deep gameplay, Community driven!",
 	"author": "Community",
+
+	"icon":"https://raw.githubusercontent.com/Planetary-Annihilation-Fandom/com.pa.balance.legion/main/icon.png",
+	"forum":"https://steamcommunity.com/app/386070/discussions/0/3821908348797571991/",
+	"github":"https://github.com/Planetary-Annihilation-Fandom/com.pa.balance.legion",
+
 	"signature": "not yet implemented",
 	"context": "server",
 	"priority": 70,
