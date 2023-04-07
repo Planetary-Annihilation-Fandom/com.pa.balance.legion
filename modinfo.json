@@ -14,8 +14,13 @@
 	"dependencies": [
 		"com.pa.legion-expansion-server"
 	],
+	"category": [
+        	"legion",
+        	"balance",
+        	"titans"
+    	],
 	"titansOnly": true,
 	"date": "2023-04-07",
 	"build": "116400",
-	"version": "1.0.0"
+	"version": "1.0.1"
 }
