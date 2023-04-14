@@ -16,8 +16,8 @@
     "github": "https://github.com/Planetary-Annihilation-Fandom/com.pa.balance.legion",
 
     "build": "116400",
-    "version": "1.2.3-up0",
-    "date": "2023-04-13",
+    "version": "1.2.4-up0",
+    "date": "2023-04-14",
     
     "context":"server",
     "priority": 70,
